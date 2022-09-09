@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0aafde8e","path":"/tag/vuerouter/","title":"VueRouter \u6807\u7B7E","lang":"zh-CN","frontmatter":{"title":"VueRouter \u6807\u7B7E","blog":{"type":"category","name":"VueRouter","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};
