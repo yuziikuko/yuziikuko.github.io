@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c4b9a4e","path":"/tag/next.js/","title":"Next.js \u6807\u7B7E","lang":"zh-CN","frontmatter":{"title":"Next.js \u6807\u7B7E","blog":{"type":"category","name":"Next.js","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};
