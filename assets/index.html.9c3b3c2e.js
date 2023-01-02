@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-58561aba","path":"/category/ecmascript/","title":"ECMAScript \u5206\u7C7B","lang":"zh-CN","frontmatter":{"title":"ECMAScript \u5206\u7C7B","blog":{"type":"category","name":"ECMAScript","key":"category"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{t as data};
