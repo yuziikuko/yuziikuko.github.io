@@ -1,0 +1,4 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as s,c as a,d as n}from"./app.b9fb66d9.js";const d={},i=n(`<h2 id="_1-\u4F5C\u7528" tabindex="-1"><a class="header-anchor" href="#_1-\u4F5C\u7528" aria-hidden="true">#</a> 1.\u4F5C\u7528</h2><p>\u8BA9\u6837\u5F0F\u5728\u5C40\u90E8\u751F\u6548\uFF0C\u9632\u6B62\u51B2\u7A81\u3002</p><h2 id="_2-\u5199\u6CD5" tabindex="-1"><a class="header-anchor" href="#_2-\u5199\u6CD5" aria-hidden="true">#</a> 2.\u5199\u6CD5</h2><div class="language-css ext-css line-numbers-mode"><pre class="language-css"><code>&lt;style scoped&gt;
+.....
+&lt;/style&gt;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,4),c=[i];function r(t,l){return s(),a("div",null,c)}const h=e(d,[["render",r],["__file","27.html.vue"]]);export{h as default};
