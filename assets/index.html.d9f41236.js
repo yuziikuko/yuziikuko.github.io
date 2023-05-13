@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4507db72","path":"/tag/axios/","title":"Axios \u6807\u7B7E","lang":"zh-CN","frontmatter":{"title":"Axios \u6807\u7B7E","blog":{"type":"category","name":"Axios","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{t as data};
