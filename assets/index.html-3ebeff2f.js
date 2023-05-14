@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5a205b54","path":"/notes/ECMAScript6-11/","title":"E C M A Script6 11","lang":"zh-CN","frontmatter":{"title":"E C M A Script6 11","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

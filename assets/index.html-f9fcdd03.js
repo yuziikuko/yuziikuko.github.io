@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c3c7cdb","path":"/notes/Vue3/","title":"Vue3","lang":"zh-CN","frontmatter":{"title":"Vue3","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

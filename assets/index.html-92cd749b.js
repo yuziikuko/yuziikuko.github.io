@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b3068398","path":"/tag/rtk/","title":"RTK 标签","lang":"zh-CN","frontmatter":{"title":"RTK 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"RTK","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

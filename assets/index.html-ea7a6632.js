@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0d1ef0ee","path":"/tag/redux/","title":"Redux 标签","lang":"zh-CN","frontmatter":{"title":"Redux 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Redux","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

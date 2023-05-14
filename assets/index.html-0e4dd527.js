@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5b3eaf47","path":"/notes/DuYi/","title":"Du Yi","lang":"zh-CN","frontmatter":{"title":"Du Yi","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

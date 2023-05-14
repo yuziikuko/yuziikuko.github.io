@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ba5e197a","path":"/tag/jquery/","title":"JQuery 标签","lang":"zh-CN","frontmatter":{"title":"JQuery 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"JQuery","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

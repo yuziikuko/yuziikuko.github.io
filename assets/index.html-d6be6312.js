@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-13165434","path":"/tag/dropzone/","title":"Dropzone 标签","lang":"zh-CN","frontmatter":{"title":"Dropzone 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Dropzone","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

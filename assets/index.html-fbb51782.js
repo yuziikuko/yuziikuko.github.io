@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58e39d2b","path":"/category/vue2/","title":"Vue2 分类","lang":"zh-CN","frontmatter":{"title":"Vue2 分类","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Vue2","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

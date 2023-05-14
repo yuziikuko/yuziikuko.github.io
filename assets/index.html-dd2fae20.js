@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2826d081","path":"/tag/ajax/","title":"Ajax 标签","lang":"zh-CN","frontmatter":{"title":"Ajax 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Ajax","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

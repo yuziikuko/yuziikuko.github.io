@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1688a03c","path":"/tag/vue-i18n/","title":"Vue i18n 标签","lang":"zh-CN","frontmatter":{"title":"Vue i18n 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Vue i18n","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

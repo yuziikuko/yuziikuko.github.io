@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7315a25d","path":"/notes/HTML_CSS_JS/","title":"H T M L C S S J S","lang":"zh-CN","frontmatter":{"title":"H T M L C S S J S","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
