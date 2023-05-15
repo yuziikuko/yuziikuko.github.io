@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-528eac75","path":"/tag/%E5%A7%AC%E6%88%90/","title":"姬成 标签","lang":"zh-CN","frontmatter":{"title":"姬成 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"姬成","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
