@@ -1,4 +1,0 @@
-import{_ as s}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as e,e as a}from"./app-76cdb462.js";const t={},c=a(`<p>img 标签默认垂直方向居中，多张图片纵向排列时底部会有空隙，此时只需设置 img 垂直顶部对齐即可。</p><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">img</span> <span class="token punctuation">{</span>
-  <span class="token property">vertical-align</span><span class="token punctuation">:</span> top<span class="token punctuation">;</span>
-<span class="token punctuation">}</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),i=[c];function o(l,p){return n(),e("div",null,i)}const u=s(t,[["render",o],["__file","04.html.vue"]]);export{u as default};

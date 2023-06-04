@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-db392e7c","path":"/tag/react-router-5/","title":"React Router 5 \u6807\u7B7E","lang":"zh-CN","frontmatter":{"title":"React Router 5 \u6807\u7B7E","blog":{"type":"category","name":"React Router 5","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};

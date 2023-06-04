@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-24a5cc2a","path":"/tag/react-router/","title":"React Router \u6807\u7B7E","lang":"zh-CN","frontmatter":{"title":"React Router \u6807\u7B7E","blog":{"type":"category","name":"React Router","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{t as data};

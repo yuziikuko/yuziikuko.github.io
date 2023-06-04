@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-58e39d2b","path":"/category/vue2/","title":"Vue2 \u5206\u7C7B","lang":"zh-CN","frontmatter":{"title":"Vue2 \u5206\u7C7B","blog":{"type":"category","name":"Vue2","key":"category"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};
