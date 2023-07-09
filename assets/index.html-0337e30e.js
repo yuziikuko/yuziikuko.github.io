@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ced0730","path":"/tag/%E9%9F%A9%E5%88%9A/","title":"韩刚 标签","lang":"zh-CN","frontmatter":{"title":"韩刚 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"韩刚","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
