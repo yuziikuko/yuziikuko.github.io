@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2862a16a","path":"/tag/es6_/","title":"ES6+ 标签","lang":"zh-CN","frontmatter":{"title":"ES6+ 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"ES6+","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
