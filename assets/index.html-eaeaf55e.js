@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1b918c03","path":"/notes/DuYi/02Central/","title":"02 Central","lang":"zh-CN","frontmatter":{"title":"02 Central","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
