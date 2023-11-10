@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-238cee8e","path":"/notes/DuYi/04Interview/","title":"04 Interview","lang":"zh-CN","frontmatter":{"title":"04 Interview","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
