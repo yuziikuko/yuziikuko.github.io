@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3c4b9a4e","path":"/tag/next.js/","title":"Next.js 标签","lang":"zh-CN","frontmatter":{"title":"Next.js 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Next.js","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
