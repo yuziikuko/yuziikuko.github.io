@@ -1,0 +1,21 @@
+import{_ as n}from"./plugin-vue_export-helper-c27b6911.js";import{o as s,c as a,e as t}from"./app-44df4515.js";const e={},l=t(`<ul><li><code>ES6</code> 引入新的声明字符串的方式 \`\` 、 &#39;&#39; 、 &quot;&quot;</li></ul><h2 id="一-声明" tabindex="-1"><a class="header-anchor" href="#一-声明" aria-hidden="true">#</a> （一）声明</h2><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token template-string"><span class="token template-punctuation string">\`</span><span class="token string">我也是一个字符串</span><span class="token template-punctuation string">\`</span></span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>str<span class="token punctuation">,</span> <span class="token keyword">typeof</span> str<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token comment">// 我也是一个字符串 string</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="二-内容中可以直接出现换行符" tabindex="-1"><a class="header-anchor" href="#二-内容中可以直接出现换行符" aria-hidden="true">#</a> （二）内容中可以直接出现换行符</h2><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">// let str = &#39;&lt;ul&gt;</span>
+<span class="token comment">//     &lt;li&gt;沈腾&lt;/li&gt;</span>
+<span class="token comment">//     &lt;li&gt;贾玲&lt;/li&gt;</span>
+<span class="token comment">//     &lt;li&gt;艾伦&lt;/li&gt;</span>
+<span class="token comment">//     &lt;li&gt;马丽&lt;/li&gt;</span>
+<span class="token comment">// &lt;/ul&gt;&#39;;</span>
+
+<span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token template-string"><span class="token template-punctuation string">\`</span><span class="token string">&lt;ul&gt;
+  &lt;li&gt;沈腾&lt;/li&gt;
+  &lt;li&gt;贾玲&lt;/li&gt;
+  &lt;li&gt;艾伦&lt;/li&gt;
+  &lt;li&gt;马丽&lt;/li&gt;
+&lt;/ul&gt;</span><span class="token template-punctuation string">\`</span></span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="三-变量拼接" tabindex="-1"><a class="header-anchor" href="#三-变量拼接" aria-hidden="true">#</a> （三）变量拼接</h2><ul><li><code>\${}</code> 是固定格式</li><li>与 \`\` 搭配使用</li></ul><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">let</span> lovest <span class="token operator">=</span> <span class="token string">&quot;沈腾&quot;</span><span class="token punctuation">;</span>
+<span class="token keyword">let</span> out <span class="token operator">=</span> <span class="token template-string"><span class="token template-punctuation string">\`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">\${</span>lovest<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">是我心目中最搞笑的演员!!!</span><span class="token template-punctuation string">\`</span></span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>out<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token comment">// 沈腾是我心目中最搞笑的演员!!!</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,8),i=[l];function p(c,o){return s(),a("div",null,i)}const d=n(e,[["render",p],["__file","04.html.vue"]]);export{d as default};
