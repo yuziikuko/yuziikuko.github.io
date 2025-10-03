@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-dfac60a1.js";const c={},n=_("p",null,"工作学习生活中经常访问的网站链接合集，持续更新 ing......😉",-1),s=[n];function r(a,l){return t(),o("div",null,s)}const m=e(c,[["render",r],["__file","00.html.vue"]]);export{m as default};
