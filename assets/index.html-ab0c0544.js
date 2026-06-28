@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-14dc9fc9","path":"/tag/canvas/","title":"Canvas 标签","lang":"zh-CN","frontmatter":{"title":"Canvas 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"Canvas","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{a as data};

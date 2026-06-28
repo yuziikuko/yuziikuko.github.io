@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		svg{border:1px solid #ccc;}
+	</style>
+</head>
+<body>
+	
+	<svg width="200" height="200" viewBox="-50 -50 100 100">
+		 <rect x="-10" y="-10" width="20" height="20" fill="#f00" >
+            <animateTransform id="a1" attributeName="transform"
+                attributeType="XML"
+                type="scale"
+                from="1"
+                to="2"
+                dur="1s"
+				begin="t.click"
+                fill="freeze"/>
+
+            <animateTransform attributeName="transform"
+                attributeType="XML"
+                type="rotate"
+                from="0"
+                to="45"
+                begin="a1.end"
+                additive="sum"
+                dur="1s"
+                fill="freeze"/>    
+        </rect>
+		
+		<text x="0" y="40" font-size="8" text-anchor="middle" id="t" style="cursor:pointer;user-select:none">点我</text>
+	</svg>
+
+	
+
+</body>
+</html>

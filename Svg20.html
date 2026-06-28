@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		svg{border:1px solid #ccc;}
+	</style>
+</head>
+<body>
+
+
+	<svg width="200" height="200" viewBox="0 0 100 100">
+        <path d="M30 30 h40 v40 h-40 z" fill="none" stroke="#00f" stroke-width="1" >
+            <set id="s2" attributeName="d" to="M30 50 A20 20 0 0 1 70 50A 20 20 0 0 1 30 50" dur="1s" begin="t.click;s1.end" />
+            <set id="s3" attributeName="d" to="M50 30 L30 70 L 70 70 Z" dur="1s" begin="s2.end"/>
+            <set id="s1" attributeName="d" to="M30 30 h40 v40 h-40 z" dur="1s" begin="s3.end" />
+        </path>    
+       
+		
+		<text x="50" y="90" font-size="8" text-anchor="middle" id="t" style="cursor:pointer;user-select:none">点我</text>
+    </svg>
+	
+
+</body>
+</html>

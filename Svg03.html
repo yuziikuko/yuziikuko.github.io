@@ -1,0 +1,32 @@
+<html>
+	<body>
+		<svg viewBox="0 0 100 100" width="200" height="200">
+			<circle cx="30" cy="30" r="10" fill="#f00">
+				<animate 
+					attributeName="cx"
+					from="30" 
+					to="60"
+					dur="1s"
+					begin="t.click"
+					repeatCount="1"
+					fill="freeze"/>
+			</circle>
+			
+			<circle cx="30" cy="60" r="10" fill="#f00">
+				<animate 
+					attributeName="cx"
+					from="30" 
+					by="60"
+					dur="1s"
+					begin="t.click"
+					repeatCount="1"
+					fill="freeze"/>
+			</circle>
+			
+			
+			<text x="50" y="80" font-size="8" text-anchor="middle" id="t" style="cursor:pointer;user-select:none">点我</text>
+		</svg>
+
+
+	</body>
+</html>

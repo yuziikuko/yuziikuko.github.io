@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <svg viewBox="0 0 100 100" width="200" height="200">
+
+        <circle cx="30" cy="30" r="10" fill="#f00">
+            <animate 
+                attributeType="XML"
+                attributeName="cx"
+                from="30" 
+                to="60"
+                dur="1s"
+				begin="t.click"
+                repeatCount="1"
+                fill="freeze"/>
+        </circle>
+
+		<text x="50" y="80" font-size="8" text-anchor="middle" id="t" style="cursor:pointer;user-select:none">点我</text>
+    </svg>
+  </body>
+</html>
+

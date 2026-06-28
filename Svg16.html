@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		svg{border:1px solid #ccc;}
+	</style>
+</head>
+<body>
+	
+	<svg width="200" height="200" viewBox="-50 -50 100 100">
+		 <rect x="-30" y="-10" width="20" height="20" fill="#f00" >
+            <animate attributeType="XML"
+                attributeName="x"
+                to="-10"
+                dur="1s"
+                accumulate="sum"
+                fill="freeze"
+				begin="t.click"
+                repeatCount="3"/>
+        </rect>
+		
+		<text x="0" y="40" font-size="8" text-anchor="middle" id="t" style="cursor:pointer;user-select:none">to 20</text>
+	</svg>
+	
+	<svg width="200" height="200" viewBox="-50 -50 100 100">
+		 <rect x="-30" y="-10" width="20" height="20" fill="#f00" >
+            <animate attributeType="XML"
+                attributeName="x"
+                by="20"
+                dur="1s"
+                accumulate="sum"
+                fill="freeze"
+				begin="t2.click"
+                repeatCount="3"/>
+        </rect>
+		
+		<text x="0" y="40" font-size="8" text-anchor="middle" id="t2" style="cursor:pointer;user-select:none">by 20</text>
+	</svg>
+
+	
+
+</body>
+</html>
